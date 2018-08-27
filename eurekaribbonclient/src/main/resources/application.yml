@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: eurekaribbonclient
+server:
+  port: 8764
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/

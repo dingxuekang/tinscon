@@ -1,0 +1,6 @@
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\EurekafeignclientApplication.java
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\controller\HiController.java
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\config\FeignConfig.java
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\interf\EurekaClientFeign.java
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\service\HiService.java
+C:\Users\dingxk\IdeaProjects\springcloud\eurekafeignclient\src\main\java\com\tinscon\eurekafeignclient\interfaceImpl\HiHystrix.java

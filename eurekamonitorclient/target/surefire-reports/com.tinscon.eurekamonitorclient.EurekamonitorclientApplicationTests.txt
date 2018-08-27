@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tinscon.eurekamonitorclient.EurekamonitorclientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.228 sec - in com.tinscon.eurekamonitorclient.EurekamonitorclientApplicationTests

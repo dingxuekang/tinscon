@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: serviceturbine
+server:
+  port: 8769
+turbine:
+  aggreagtor:
+    clusterConfig: default
+  appConfig: eurekaribbonclient,eurekafeignclient
+  clusterNameExpression: new String("default")
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
